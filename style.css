@@ -416,7 +416,7 @@ nav {
 @media (max-width:414px) {
 
     body {
-    background-attachment: local;
+    background-attachment: scroll;
     background-image: url(https://live.staticflickr.com/65535/48722739588_1cff38c29c_b.jpg);
     background-size: cover;
     width: 100%;
