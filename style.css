@@ -416,10 +416,10 @@ nav {
 @media (max-width:414px) {
 
     body {
-    background-attachment: fixed;
+    background-attachment: local;
     background-image: url(https://live.staticflickr.com/65535/48722739588_1cff38c29c_b.jpg);
     background-size: cover;
-    width: 100vw;
+    width: 100%;
     height: 100%;
     background-position: center;
     }
